@@ -1,0 +1,19 @@
+body {
+    background-color:blueviolet ;
+    color: cornsilk;
+    text-align: center;
+}
+ .main-header{
+     border: 3px solid black;
+ }
+
+ .main-header {
+     font-size: 25px;
+ }
+
+ .legos{
+     width: 350px;
+     height: auto;
+     border: 5px solid red;
+     
+ }
